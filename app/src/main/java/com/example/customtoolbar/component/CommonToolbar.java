@@ -28,6 +28,7 @@ public class CommonToolbar extends FrameLayout {
 
     private ImageView iv_left;
     private View v_left;
+    
     private ImageView iv_right;
     private View v_right;
 
