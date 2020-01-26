@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CommonToolbar">
+        <attr name="toolbarOverlayIndicator" format="boolean" />
+        <attr name="toolbarTitle" format="string" />
+        <attr name="toolbarLeftIcon" format="reference" />
+        <attr name="toolbarLeftIconWidth" format="dimension" />
+        <attr name="toolbarLeftIconHeight" format="dimension" />
+        <attr name="toolbarLeftText" format="string" />
+        <attr name="toolbarLeftColor" format="color" />
+        <attr name="toolbarLeftLayout" format="reference" />
+        <attr name="toolbarRightIcon" format="reference" />
+        <attr name="toolbarRightIconWidth" format="dimension" />
+        <attr name="toolbarRightIconHeight" format="dimension" />
+        <attr name="toolbarRightText" format="string" />
+        <attr name="toolbarRightColor" format="color" />
+        <attr name="toolbarRightLayout" format="reference" />
+    </declare-styleable>
+
+</resources>
